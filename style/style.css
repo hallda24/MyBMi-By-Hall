@@ -1,0 +1,33 @@
+* {
+    font-family: 'Kanit';
+    
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('../font/Kanit-Regular.ttf') format('truetype'); 
+}
+
+.table {
+    font-size: 1.33rem;
+}
+
+
+
+
+
